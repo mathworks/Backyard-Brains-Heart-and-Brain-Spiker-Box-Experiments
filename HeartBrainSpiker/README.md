@@ -13,3 +13,5 @@ By using the interactive live-script you will learn how to:
 * Visualize ECGs in MATLAB
 * Analyze ECGs in MATLAB
 * Label ECGS with Deep Learning in MATLAB
+
+![ecgSnap](/uploads/9a4894e23db9fb6bead71559d924dacb/ecgSnap.PNG)
