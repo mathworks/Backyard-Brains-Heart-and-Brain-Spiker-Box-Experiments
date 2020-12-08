@@ -1,9 +1,4 @@
-# Heart & Brain Spiker Box
-Repository for experiments with the Heart & Brain spiker box
-
-In this repository you'll find scripts for Data Acquisition and Analysis with the [Heart & Brain spiker box](https://backyardbrains.com/products/heartAndBrainSpikerBox)
-
-## Getting started with the Heart & Brain spiker Box in MATLAB & Simulink
+# Getting started with the Heart & Brain spiker Box in MATLAB & Simulink
 
 ![ReadmePic1_small](/uploads/0d70016ca4f5da851b23960b3dea32ff/ReadmePic1_small.PNG)
 
