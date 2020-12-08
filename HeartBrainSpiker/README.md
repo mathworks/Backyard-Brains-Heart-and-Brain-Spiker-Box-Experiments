@@ -12,8 +12,8 @@ By using the interactive live-script you will learn how to:
 * Acquire data in MATLAB & Simulink
 * Read & Write data/code with MATLAB & Simulink on Hardware
 * Pre-process ECGs in MATLAB
+![ecgSnap](/uploads/9a4894e23db9fb6bead71559d924dacb/ecgSnap.PNG)
 * Visualize ECGs in MATLAB
 * Analyze ECGs in MATLAB
 * Label ECGS with Deep Learning in MATLAB
 
-![ecgSnap](/uploads/9a4894e23db9fb6bead71559d924dacb/ecgSnap.PNG)
