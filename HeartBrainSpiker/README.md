@@ -5,7 +5,7 @@ In this repository you'll find scripts for Data Acquisition and Analysis with th
 
 ## Getting started with the Heart & Brain spiker Box in MATLAB & Simulink
 
-![ReadmePic1](/uploads/a4aedbabdb72ad1cfff9dacd9bf47e8f/ReadmePic1.PNG)
+![ReadmePic1_small](/uploads/0d70016ca4f5da851b23960b3dea32ff/ReadmePic1_small.PNG)
 
 The Live-script HeartBrainSpiker_start will get you started with the Heart and Brain spiker box.<br/>
 By using the interactive live-script you will learn how to:
