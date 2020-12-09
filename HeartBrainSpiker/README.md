@@ -23,7 +23,7 @@ By using the interactive live-script you will learn how to:
 * Calculate your heart rate from the ECG
 ![ReadmePic4](/uploads/ad74b33d3aa366af51dbd1241800617d/ReadmePic4.PNG)
 
-## Label ECGs using pre-trained networks
+## Label ECGs using a pre-trained neural network
 
 * Detect P-waves, QRS complexes and T-waves with a pretrained network
 ![ReadmePic3](/uploads/6d8747711c21b1c0c73d7557b3348101/ReadmePic3.PNG)
