@@ -15,7 +15,7 @@ By using the interactive live-script you will learn how to:
 
 * Learn about Filtering and Smoothing
 
-![ReadmePic2_new](/uploads/ca34cc4c64ea3aa0bd1e4590bf3122c4/ReadmePic2_new.PNG)
+![ReadmePic2_new](/uploads/1e52c216ea6bdd8cbad81192b584e8d1/ReadmePic2_new.PNG)
 
 ## Analyze ECGs in MATLAB
 
