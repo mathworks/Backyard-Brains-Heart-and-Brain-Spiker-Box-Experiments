@@ -15,13 +15,13 @@ By using the interactive live-script you will learn how to:
 
 * Learn about Filtering and Smoothing
 
-![ReadmePic2](/uploads/a21fabc7ddb8bbfd3c62c3de1e87425b/ReadmePic2.PNG)
+![ReadmePic2_new](/uploads/ca34cc4c64ea3aa0bd1e4590bf3122c4/ReadmePic2_new.PNG)
 
 ## Analyze ECGs in MATLAB
 
 * Detect R peaks with local maxima detection
 * Calculate your heart rate from the ECG
-![ReadmePic4](/uploads/38702ccb465cd1bcdbcb82625bbeb226/ReadmePic4.PNG)
+![ReadmePic4](/uploads/ad74b33d3aa366af51dbd1241800617d/ReadmePic4.PNG)
 
 ## Label ECGs using pre-trained networks
 
