@@ -9,7 +9,7 @@ By using the interactive live-script you will learn how to:
 * Label ECGS with Deep Learning in MATLAB
 
 ## Acquire ECG data in MATLAB & Simulink
-![ReadmePic1_new_small](/uploads/2b9b4fb188452c3e75730a3fb27e7e68/ReadmePic1_new_small.PNG)
+![ReadmePic1_new_small](/uploads/5e39f2cf43c827573f01ce7def6c18cc/ReadmePic1_new_small.PNG)
 
 ## Pre-Process ECGs in MATLAB
 
