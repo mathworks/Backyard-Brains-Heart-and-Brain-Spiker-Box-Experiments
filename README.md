@@ -5,5 +5,5 @@ In this repository you'll find scripts for Data Acquisition and Analysis with Ha
 
 ## Table of Contents
 
-* [Getting Started with the Heart & Brain Spiker Box](https://insidelabs-git.mathworks.com/neuro/backyardbrains/-/tree/main/HeartBrainSpiker)
+* [Getting Started with the Heart & Brain Spiker Box](https://github.com/mathworks/Neuroscience-Examples-for-MATLAB-and-Backyard-Brains/tree/main/HeartBrainSpiker)
 * 2021: EEG experiments
