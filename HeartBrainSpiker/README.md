@@ -6,25 +6,25 @@ By using the interactive live-script you will learn how to:
 * Pre-process ECGs in MATLAB
 * Visualize ECGs in MATLAB
 * Analyze ECGs in MATLAB
-* Label ECGS with Deep Learning in MATLAB
+* Label ECGs with Deep Learning in MATLAB
 
 ## Acquire ECG data in MATLAB & Simulink
-![ReadmePic1_new_small](/uploads/5e39f2cf43c827573f01ce7def6c18cc/ReadmePic1_new_small.PNG)
+![](https://user-images.githubusercontent.com/46596129/102797647-4708db80-43b0-11eb-967a-a16e6a4e9d62.PNG)
 
 ## Pre-Process ECGs in MATLAB
 
 * Learn about Filtering and Smoothing
 
-![ReadmePic2_new](/uploads/1e52c216ea6bdd8cbad81192b584e8d1/ReadmePic2_new.PNG)
+![](https://user-images.githubusercontent.com/46596129/102797952-af57bd00-43b0-11eb-9dfc-e231807c2102.PNG)
 
 ## Analyze ECGs in MATLAB
 
 * Detect R peaks with local maxima detection
 * Calculate your heart rate from the ECG
-![ReadmePic4](/uploads/ad74b33d3aa366af51dbd1241800617d/ReadmePic4.PNG)
+![](https://user-images.githubusercontent.com/46596129/102797995-c1d1f680-43b0-11eb-8a2d-89dc5af3a27e.PNG)
+
 
 ## Label ECGs using a pre-trained neural network
 
 * Detect P-waves, QRS complexes and T-waves with a pretrained network
-![ReadmePic3](/uploads/6d8747711c21b1c0c73d7557b3348101/ReadmePic3.PNG)
-
+![](https://user-images.githubusercontent.com/46596129/102798061-de6e2e80-43b0-11eb-9f84-5c50dfed2a8c.PNG)
