@@ -1,4 +1,4 @@
-function labelTable = findQRS(x,t,parentLabelVal,parentLabelLoc,varargin)
+function labelTable = findPQRST(x,t,parentLabelVal,parentLabelLoc,varargin)
 % This is a template for creating a custom function for automated labeling
 %
 %  x is a matrix where each column contains data corresponding to a
