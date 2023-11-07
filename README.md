@@ -1,11 +1,18 @@
-# BackyardBrains
-Repository for experiments with BackyardBrains Hardware
+# Backyard-Brains-Heart-and-Brain-Spiker-Box-Experiments
+Please use the Runme.mlx to start the individual experiments
 
-In this repository you'll find scripts for Data Acquisition and Analysis with Hardware from [BackyardBrains](https://backyardbrains.com/)
+## Brain(EEG)
+This directory contains examples for using the Heart and Brain Spiker Box and MATLAB/Simulink for recording and analyzing brain signals.
 
-## Table of Contents
+### Classify Brain State using Machine Learning
+The livescript "EEGexperiments.mlx" walks you through downloading/preprocessing EEG data (with the help of "/Helper_Livescripts/EEG_loadDataForClassification.mlx") and developing a machine learning classifier to determine the brain state from the EEG data. From the data we try to develop a model that predicts whether the subject had the eyes open or closed during the acquisition of the EEG. We will use the Classification Learner App, get an overview about machine learning in general and introduce K-nearest neighbor models.
 
-* [Getting Started with the Heart & Brain Spiker Box](https://github.com/mathworks/Neuroscience-Examples-for-MATLAB-and-Backyard-Brains/tree/main/HeartBrainSpiker)
-* 2021: EEG experiments
+Other files in the Helper_Livescripts subfolder (EEG_acquire.mlx, EEG_analyze.mlx and RecordEEG.slx) contain a demonstration on how to acquire and analyze your own EEG data with BackyardBrains Hardware and Simulink.
 
-[![View Neuroscience-Examples-for-MATLAB-and-Backyard-Brains on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/84610-neuroscience-examples-for-matlab-and-backyard-brains)
+
+## Heart(ECG)
+
+
+
+© 2023 The MathWorks, Inc.
+
