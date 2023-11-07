@@ -1,5 +1,5 @@
 # Backyard-Brains-Heart-and-Brain-Spiker-Box-Experiments
-Please use the Runme.mlx to start the individual experiments
+Please use the GettingStarted.mlx to start the individual experiments
 
 ## Brain(EEG)
 This directory contains examples for using the Heart and Brain Spiker Box and MATLAB/Simulink for recording and analyzing brain signals.
