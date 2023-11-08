@@ -7,13 +7,15 @@ Please use the GettingStarted.mlx to start the individual experiments
 This directory contains examples for using the Heart and Brain Spiker Box and MATLAB/Simulink for recording and analyzing brain signals.
 
 ### Classify Brain State using Machine Learning
-The livescript "EEGexperiments.mlx" walks you through downloading/preprocessing EEG data (with the help of "/Helper_Livescripts/EEG_loadDataForClassification.mlx") and developing a machine learning classifier to determine the brain state from the EEG data. From the data we try to develop a model that predicts whether the subject had the eyes open or closed during the acquisition of the EEG. We will use the Classification Learner App, get an overview about machine learning in general and introduce K-nearest neighbor models.
+The livescript "classifyBrainStateUsingMachineLearning.mlx" walks you through downloading/preprocessing EEG data and developing a machine learning classifier to determine the brain state from the EEG data. From the data we develop a model that predicts whether the subject had the eyes open or closed during the acquisition of the EEG.
+The additional livescript "exploreMachineLearningModels.mlx" offers an optional part that uses the Classification Learner App, provides an overview about machine learning in general and introduces K-nearest neighbor models.
 
-Other files in the Helper_Livescripts subfolder (EEG_acquire.mlx, EEG_analyze.mlx and RecordEEG.slx) contain a demonstration on how to acquire and analyze your own EEG data with BackyardBrains Hardware and Simulink.
+### RecordAndAnalyzeEEGsignals
+This module contains a demonstration on how to acquire and analyze your own EEG data with BackyardBrains Hardware and Simulink. (Please note, this is work in progress and has not been updated)
 
 
 ## Heart(ECG)
-
+Additional modules about acquiring and analyzing EEG data with your low-cost hardware will follow in a future update
 
 
 © 2023 The MathWorks, Inc.
